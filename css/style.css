@@ -1,0 +1,156 @@
+*{
+  box-sizing: border-box
+}
+body{
+  font-family: 'Roboto',sans-serif;
+}
+
+
+header{
+  background: #FFFFFF;
+  padding: 15px 0 28px 0;
+}
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+}
+h2 {
+  font-weight: 400;
+  font-size: 37px;
+  line-height: 36px;
+  text-align: center;
+  margin: 0;
+  margin-bottom: 32px;
+  color: rgba(0, 0, 0, 0.56)
+}
+.text{
+  display: block;
+  font-size: 23px;
+  line-height: 30px;
+  margin-bottom: 32px;
+  color: rgba(0,0,0,0.4);
+  text-align: center;
+}
+.logo,
+.social{
+  display: inline-block;
+  width: 468px;
+
+}
+.logo{
+  text-align: left;
+}
+.social{
+  text-align: right;
+}
+.logo-img{
+  margin-right: 18px;
+  width: 37px;
+  height: 37px;
+}
+.logo-text{
+  color: #2E2E2E;
+  font-size: 32px;
+  line-height: 22px;
+  vertical-align: top;
+}
+.social-img{
+  width: 25px;
+  height: 25px;
+}
+.social-img:first-child{
+  margin-right: 21px;
+}
+.storege{
+  background: #FAC960;
+  padding: 102px 0 117px 0;
+}
+
+
+.input-mail{
+  padding-left: 36px;
+  padding-right: 194px;
+  color: #999999;
+  font-size: 30px;
+  background: #fff;
+  border-radius: 0px 2px 2px 0px;
+  border: none;
+  line-height: 52px; 
+}
+.storege-text{
+  color: #8A6D2F;
+  font-size: 44px;
+  line-height: 52px;
+  display: block;
+  text-align: center;
+}
+.input-button{
+  background: #A8863D;
+  margin-left: -3px;
+  padding: 0 37px;
+  font-size: 30px;
+  line-height: 52px;
+  cursor: pointer;
+  margin-top: 40px;
+  border-radius: 0px 2px 2px 0px;
+  border: none;
+  color: #fff  
+}
+.container>form{
+  display: block;
+  text-align: center;
+}
+.unlimited-space{
+  background: #F2F2F2;
+  padding: 77px 0 81px 0;
+}
+.unlimited-space_img{
+  display: block;
+  text-align: center;
+}
+
+.mobile-access{
+  background: #fff;
+  padding: 76px 0 20px 0;
+}
+.mobile-access_img{
+  display: block;
+  text-align: center;
+}
+.friends{
+  padding: 54px 0 107px 0;
+  background: #FAC960;
+  text-align: center;
+}
+.friends-text{
+  color: #8A6D2F;
+}
+.friends-btn{
+  display: inline-block;
+  background: fff;
+  border: 1px solid #758696;
+  color: #999999;
+  cursor: pointer;
+  border-radius: 3px;
+  padding: 0 23px;
+  height: 23px;
+}
+footer{
+  background: #F2F2F2;
+  padding: 85px 0 81px 0;
+  text-align: center;
+}
+.footer-logo{
+  margin-bottom: 24px;
+  display: inline-block;
+}
+.footer-img{
+width: 15px;
+height: 15px;
+margin-right: 20px;
+}
+
+
+
+
+
